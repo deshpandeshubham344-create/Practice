@@ -1,2 +1,2 @@
 This is content of file 1
-Modify file1 
+Modified file1
