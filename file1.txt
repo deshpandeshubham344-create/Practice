@@ -1,2 +1,2 @@
 This is content of file 1
-Modified file1
+Modified in master branch
